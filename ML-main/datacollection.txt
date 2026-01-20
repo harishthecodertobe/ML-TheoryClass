@@ -1,0 +1,26 @@
+HOW DATA IS BEIGN COLLECT FOR MACHINE LEARNING? 
+ans- Data Collection is the process of collecting information from relevant sources to find a solution to the given statistical inquiry. 
+Collection of Data is the first and foremost step in a statistical investigation. It's an essential step because it helps us make informed decisions, spot trends, and measure progress.
+Different methods of collecting data include
+   Interviews
+   Questionnaires
+   Observations
+   Experiments
+Published Sources and Unpublished Sourceshttps://media.geeksforgeeks.org/wp-content/uploads/20230714160554/methods-COLLECTING-DATA.webp (FOR PRIMARY AND SECONDARY)
+Web scraping is an automated method to extract large amounts of data from websites. This data, usually in HTML format, is converted into structured formats like spreadsheets or databases for further use. It can be done through online tools, APIs, or custom code. While major websites like Google, Twitter, and Facebook offer APIs for structured data access, web scraping is often used for sites that lack such options or restrict data access.
+
+APIs and databases
+   Another data collection method is to access data from existing sources that provide application programming interfaces (APIs) or databases that store and      manage data. This method can help you access structured or semi-structured data that is already organized, curated, and updated by other parties, such as  government agencies, research institutions, or online services. However, APIs and databases also have some constraints, such as availability, access rights, data format, and compatibility.
+Using existing or generated data
+   Pre-existing datasets: Utilizing publicly available datasets from research communities, government organizations, or platforms like Kaggle.
+   Commercial data: Purchasing datasets from companies that specialize in data collection.
+   Internal data: Leveraging data already collected within an organization, such as sales records or customer feedback.
+   Synthetic data: Creating artificial data using computer algorithms, especially when real-world data is scarce or sensitive.
+   Data augmentation: Increasing the size of a dataset by creating modified versions of existing data (e.g., rotating images). 
+SOME REAL LIFE EXAMPLES:
+Email automation and spam filtering
+Product recommendations(cookies)
+Netflix recommendation through view history
+Stock market predictions
+Wearable Fitness Trackers
+Smart Homes
